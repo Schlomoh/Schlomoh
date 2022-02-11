@@ -1,4 +1,28 @@
-### Hi there 👋
+### Oi mate
+
+```
+
+                       .".
+                     /  |
+                    /  /
+                   / ,"
+       .-------.--- /
+      "._ __.-/ o. o\
+         "   (    Y  )
+              )  `^´/
+             /     (
+            /       Y
+        .-"         |
+       /  _     \    \
+      /    `. ". ) /' )
+     Y       )( / /(,/
+    ,|      /     )
+   ( |     /     /
+    " \_  (__   (__       
+        "-._,)--._,)
+        
+        
+ ```
 
 <!--
 **Schlomoh/Schlomoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

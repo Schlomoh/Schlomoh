@@ -1,6 +1,8 @@
-# MOIN
+Pixel-wrangler & code-ninja, crafting standout digital experiences.
 
-```
+🔗 Peek into my realm at moritzbecker.de
+
+``
 
                      .".
                     /  |

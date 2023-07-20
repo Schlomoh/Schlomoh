@@ -1,8 +1,8 @@
 Pixel-wrangler & code-ninja, striving for standout digital experiences.
 
-🔗 [moritzbecker.de](https://moritzbecker.de/)
-🔗 [vectreal.com](https://vectreal.com)
-🔗 [Instagram magic](https://insta-carousel-generator.vercel.app)
+[🔗 moritzbecker.de](https://moritzbecker.de/)
+[🔗 vectreal.com](https://vectreal.com)
+[🔗 Instagram magic](https://insta-carousel-generator.vercel.app)
 
 ```
 

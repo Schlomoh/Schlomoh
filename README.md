@@ -25,7 +25,7 @@
         
  ```
 
-<iframe src="https://github.com/sponsors/Schlomoh/card" title="Sponsor Schlomoh" height="225" width="600" style="border: 0;"></iframe>
+![](https://github.com/sponsors/Schlomoh/card)
 
 
 ![](https://hit.yhype.me/github/profile?user_id=71161651)

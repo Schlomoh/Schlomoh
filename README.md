@@ -25,7 +25,7 @@
         
  ```
 
-[](https://github.com/sponsors/Schlomoh/card)
+![](https://github.com/sponsors/Schlomoh/card)
 
 
 ![](https://hit.yhype.me/github/profile?user_id=71161651)

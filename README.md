@@ -1,5 +1,6 @@
 [🔗 moritzbecker.de](https://moritzbecker.de/)
 [🔗 vectreal.com](https://vectreal.com)
+[🔗 core.vectreal.com](https://core.vectreal.com)
 
 ```
 

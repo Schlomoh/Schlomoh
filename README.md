@@ -1,6 +1,7 @@
-[🔗 moritzbecker.de](https://moritzbecker.de/)
-[🔗 vectreal.com](https://vectreal.com)
-[🔗 core.vectreal.com](https://core.vectreal.com)
+- [🔗 moritzbecker.de](https://moritzbecker.de/) - AI Portfolio
+- [🔗 vectreal.com](https://vectreal.com) - 3D Publishing platform
+- [🔗 core.vectreal.com](https://core.vectreal.com) - Open-Source 3D React.js tools
+- [🔗 enhance-photo.com](https://enhance-photo.com) - AI Image upscaling
 
 ```
 
